@@ -1,0 +1,49 @@
+{
+  "GamePanel": {
+    "muted": false,
+    "scale": 1,
+    "scale2": 0.9196428571428571,
+    "dimension": {
+      "name": "Free Aspect",
+      "x": 0,
+      "y": 0
+    },
+    "orientation": false
+  },
+  "InspectorPanel": {
+    "previewPanelHeight": 266
+  },
+  "ProjectPanel": {
+    "expandedNodes": [
+      "",
+      "~/packages"
+    ],
+    "twoColumn": false,
+    "firstColumnWidth": 289,
+    "iconScale": 0,
+    "selected": "703390a8-b11c-4741-b03b-2706e583713f"
+  },
+  "BuildSettingsPanel": {
+    "platform": "wxgame"
+  },
+  "playButtonBehavior": "startup",
+  "ConsolePanel": {
+    "collapse": true
+  },
+  "SelectResourceDialog": {
+    "iconScale": 0,
+    "previewPanelHeight": 202,
+    "x": 3154,
+    "y": 175,
+    "width": 316,
+    "height": 381
+  },
+  "SelectFolderDialog": {
+    "x": 3128,
+    "y": 240,
+    "width": 481,
+    "height": 492
+  },
+  "playUsingHttps": false,
+  "ProjectSettingsPanel": {}
+}
